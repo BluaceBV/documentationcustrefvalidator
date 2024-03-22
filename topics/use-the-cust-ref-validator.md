@@ -7,7 +7,7 @@ When using the Customer Reference Validator the created Reference Lines will be 
 
 ![Created Customer Reference Line](../images/use-cust-ref-validator/use-cust-ref-lines.png)
 
-When creating a Sales Quote for this Customer the Reference Line will be taken into account when creating a Order from the Quote.
+When creating a Sales Quote for this Customer the Reference Line will be taken into account when creating a Order from the Quote and a Invoice from Quote.
 
 ![External Document No. is empty error](../images/use-cust-ref-validator/no-ext-doc-no-err.png)
 
